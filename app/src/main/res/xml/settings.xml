@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <CheckBoxPreference
+        android:title="Shuffle"
+        android:key="shuffle"
+        android:summary="Shuffles playlist"
+        android:defaultValue="false"/>
+    <CheckBoxPreference
+        android:key="loop"
+        android:title="Loop"
+        android:summary="Loops playlist (Always loops when shuffled)"
+        android:defaultValue="false"/>
+</PreferenceScreen>

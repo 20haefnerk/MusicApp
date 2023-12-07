@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <string name="title1">Sudoku Song</string>
+    <string name="title2">Sudoku Song 2</string>
+    <string name="title3">Ukulele Song</string>
+    <string name="title4">Piano Song</string>
+    <string name="title5">Trumpet Song</string>
+    <string name="about_string">This music player was made by Kaitlyn Haefner for the
+    purposes of an Android Programming class led by Dr. Krish Pillai. This is not to be sold. All
+    images, songs, and layouts were free to use or made by Dr. Krish Pillai or Kaitlyn Haefner.</string>
+    <string name="settings_label">Settings...</string>
+    <string name="setting_menu">Music Settings</string>
+    <string name="about_label">About</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
